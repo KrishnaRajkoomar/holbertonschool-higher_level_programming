@@ -1,5 +1,5 @@
 #!/usr/bin/python3
 
-name = "Krishna"
+a = '"Programming is like building a multilingual puzzle'
 
-print("Hello", name)
+print(a)
